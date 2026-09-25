@@ -3,7 +3,7 @@ Price Scraper
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](version)
 [![License](https://img.shields.io/badge/license-MIT-green)](license)
 
-CLIScraper is a software that scrapes a site for product price. save data in a sqlite3 database, and show result in Command Line;
+CLIScraper is a software that scrapes a site for product price. save data in a sqlite3 database, and show result in Command Line.
 
 ---
 
